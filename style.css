@@ -190,7 +190,10 @@ body {
 }
 
 .amenities-image {
-  display: inline;
+  display:flex;
+  flex-wrap:wrap;
+  border-sizing:borderbox;
+  border-radius:10 px;
 }
 .amenities-item-image{
   width: 50%;

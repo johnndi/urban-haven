@@ -221,13 +221,13 @@ body {
 
 .form label {
   display: block;
-  margin-bottom: 5px;
+  margin-bottom: 5 px;
 }
 
 .form input{
   display: block;
-  margin-left: 5 px;
-  margin-right:25 px;
+  margin-bottom: 5 px;
+  
 .form textarea {
   width: 100%;
   padding: 10px;

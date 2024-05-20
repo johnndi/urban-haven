@@ -194,7 +194,7 @@ body {
   display:flex;
   flex-wrap:wrap;
   border-sizing:border-box;
-  border-radius:10 px;
+  border-radius:10px;
 }
 .amenities-item-image{
   width: 50%;
@@ -202,13 +202,13 @@ body {
   align-items: center;
   border: 3 px;
   border-sizing: border-box;
-  border-radius:10 px
+  border-radius:10px
 }
 .amenities-item-title{
   text-transform: capitalize;
   text-decoration-color: aqua;
-  margin-bottom: 4 px auto;
-  padding: 4 px auto ;
+  margin-bottom: 4px auto;
+  padding: 4px auto ;
 }
 
 .form {
@@ -221,12 +221,12 @@ body {
 
 .form label {
   display: block;
-  margin-bottom: 5 px;
+  margin-bottom: 5px;
 }
 
 .form input{
   display: block;
-  margin-bottom: 5 px;
+  margin-bottom: 5px;
   
 .form textarea {
   width: 100%;

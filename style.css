@@ -211,7 +211,7 @@ body {
   padding: 4px auto ;
 }
 
-/*.form {
+.form {
   background-color: #f4f4f4;
   padding: 50px;
   text-align: center;
@@ -236,9 +236,9 @@ body {
   margin-bottom: 20px;
   border: 1px solid #ccc;
   border-radius: 5px;
-}*/
+}
 
-.form input[type="submit"] {
+/*.form input[type="submit"] {
   background-color: #333;
   color: #fff;
   border: none;
@@ -256,7 +256,7 @@ body {
     align-items:center;
     justify-content: center;
     }
-}
+}*/
 
 .footer {
   background-color: #333;
